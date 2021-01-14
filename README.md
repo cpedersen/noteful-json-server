@@ -1,6 +1,6 @@
 ## Noteful JSON Server
 
-This is a project for education purposes created by Thinkful.
+This is a project for education purposes created by Thinkful. It is a server to be used with a React client.
 
 This is a json-server managed API meant for developing `noteful-client` projects.
 
